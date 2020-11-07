@@ -1,4 +1,5 @@
 This project uses Java 15 and Maven 1.7, it's highly recommended to instal the same versions.
+This project contains 2 .docx files one for test cases task and the other for bug report task.
 
 To run this script:
 1. Instal IntelliJ IDEA Community Edition 2020.2.3 version.
